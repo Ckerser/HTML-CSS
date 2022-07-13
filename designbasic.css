@@ -1,0 +1,35 @@
+
+.parent {
+    display: flex;
+}
+
+.left-container {
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 50%;
+}
+
+.center {
+    width: 500px;
+    
+
+}
+
+
+.right-container {
+    display: flex;
+    padding: 20px;
+    justify-content: end;
+    background-image: url('https://wallpaperaccess.com/full/2443816.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    width: 50%;
+    height: 100vh;
+
+}
+
+
+
